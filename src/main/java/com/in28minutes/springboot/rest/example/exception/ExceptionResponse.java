@@ -6,6 +6,7 @@ public class ExceptionResponse {
   private String message;
   private String details;
   private String details1;
+  private String details2;
   
   public ExceptionResponse(Date timestamp, String message, String details) {
     super();
